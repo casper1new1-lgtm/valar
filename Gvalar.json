@@ -1,0 +1,91 @@
+{
+  "allowed_machine_guids": [
+	"284d7351-742d-4b76-8537-80e8276dab94",
+	"6979n875-g123-o724-i968-f4562v22",
+	"230c893b-a411-4592-a16b-d15967923483",
+	"e9d1547f-9cc9-49b5-902e-e4cb401e6562",
+	"4adddd32-8645-46f4-9124-5342003bf1da",
+	"09e5e969-a83d-4c26-ad3f-e7690eeba68e",
+	"5dde2c5f-ea7d-4c22-9872-bef931ac566f",
+	"5277t351-c812-a689-c301-p8233l30",
+	"e2c32fb2-947e-49cf-b85f-780137881621",
+	"01fd5445-a83b-474c-b76d-209fc0b08311",
+	"7cb633af-db4e-48af-bd71-84a7f5de5b96",
+	"24992a8d-f934-4f34-9ca3-6e236511938b",
+	"8f415109-03ea-48e2-b8f7-185e4e8403fe",
+	"8de2b94e-6874-437b-b2ad-58be7a263072",
+	"b82830f8-228e-4055-8d72-e3fe2750cb24",
+	"9cdc7717-e123-4f7f-8ca9-be5df47ea28b",
+	"1aaa776e-40fa-46fc-9733-55d193f5cbbc",
+	"2539b011-16ae-4f88-a828-edfa69b469c6",
+	"52c90f9d-b4a3-4193-a319-fa01e6009a17",
+	"1053e954-6a85-4ea4-bb4b-83ef81f2712a",
+	"3891683d-13d2-49da-9063-c628c9a5b75d",
+	"c8ac59e4-d2bb-4145-a728-640dd0835c6a",
+	"b59d3546-1ecf-49b8-aabf-7150b71f8dd3",
+	"a4054493-23b6-48d2-9c30-4654642d4f63",
+	"0aa171b1-1884-44fb-901c-2c46ca706261",
+	"68b77d32-f9eb-46f0-8f20-9d9e0160a670",
+	"e59e22c9-937c-4e07-97e4-92edd3552d67",
+	"e50fc89e-b1d3-4a93-a27c-ba115b15a277",
+	"e02a7ed7-3f3e-4f91-aef7-cf0dcfa9805f",
+	"e3f18cbf-6ab2-419f-861e-bfb5837cb361",
+	"abe0bb0d-7e9f-4db5-ac5a-7847237c596a",
+	"f75e34f3-ca1f-4b88-bb43-4730bdab3a6d",
+	"301ed59d-c29d-461c-9543-9238f0edc7a6",
+	"b8e345c7-8d5f-4926-a95e-1e4f7b1e4d95",
+	"348de0b4-38a6-4025-9729-493d9fe21a6c",
+	"4a29ed48-6f98-4dc0-9857-c9816d250bdd",
+	"0a7c2d75-9ffd-4e3c-91cd-0e557a185691",
+	"7e6aad94-9a5b-4df4-9ca8-ce38a0680a44",
+	"80e146ec-2f78-46e0-b77e-8eba638df014",
+	"14c2d066-0e7c-4a45-ba0a-5a7ac44ae7e1",
+	"5c4b2bd8-f93d-486b-8017-1da93df27e14",
+	"01d99f1d-57ad-4e89-baca-61c89589433e",
+	"2c35e3fc-5d84-4c82-93e2-4b6f3b5b1a1b",
+	"92d17989-55ef-4c6b-9c1e-0f3097ad3a1f",
+	"a84a4ffc-b7d3-4d7c-a869-1abc22a3ba5e",
+	"93c24c0c-0700-40f7-b854-8319e38f97fa",
+	"7ff3de11-bb5a-4538-8197-f9ce7e5781a2",
+	"cf2411f0-e234-413e-a92f-4ff937c14711",
+	"2475bf4f-c884-43e9-b1c3-2ce5144788c3",
+	"7830123e-0a39-4204-babf-343b7e6b4614",
+	"98740e44-45ef-4f1f-b674-bec1f0b42bc9",
+	"a128fe12-1234-46e3-8149-4ea1a066e837",
+	"5dbb5707-5724-4790-b62e-2c4ba50c27f5",
+	"555368f1-47cc-4cd4-a799-94cd7337bb55"
+	
+  ],
+  "files": [
+    {
+      "name": "system/LineageEffect.u",
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/LineageEffect.u"
+    },
+	{
+      "name": "system/lineageeffect2a.u",
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/lineageeffect2a.u"
+    },
+	{
+      "name": "system/lineageskilleffect.u",
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/lineageskilleffect.u"
+    },
+	{
+      "name": "system/eu/skillgrp.dat",
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/eu/skillgrp.dat"
+    },
+	{
+      "name": "system/eu/l2gamedataname.dat",
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/eu/l2gamedataname.dat"
+    },
+	{
+      "name": "system/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/user.ini"
+    },
+	{
+      "name": "textures/Branchsys.utx",
+      "url": "https://pub-9142b8a47a3e40f996e43e5cc10fbcff.r2.dev/Branchsys.utx"
+    }
+
+	
+  ]
+}
