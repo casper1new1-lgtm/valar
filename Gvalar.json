@@ -71,11 +71,11 @@
     },
 	{
       "name": "system/eu/skillgrp.dat",
-      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/eu/skillgrp.dat"
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/skillgrp.dat"
     },
 	{
       "name": "system/eu/l2gamedataname.dat",
-      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/eu/l2gamedataname.dat"
+      "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/l2gamedataname.dat"
     },
 	{
       "name": "system/user.ini",
@@ -89,3 +89,4 @@
 	
   ]
 }
+
