@@ -80,11 +80,8 @@
 	{
       "name": "system/user.ini",
       "url": "https://github.com/casper1new1-lgtm/valar/raw/refs/heads/main/user.ini"
-    },
-	{
-      "name": "textures/Branchsys.utx",
-      "url": "https://pub-9142b8a47a3e40f996e43e5cc10fbcff.r2.dev/Branchsys.utx"
     }
+
 
 	
   ]
